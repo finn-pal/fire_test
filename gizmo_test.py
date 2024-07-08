@@ -1,6 +1,5 @@
-import sys
-
-sys.path.insert(0, "/Users/z5114326/Documents/ExternalCode")
+# import sys
+# sys.path.insert(0, "/Users/z5114326/Documents/ExternalCode")
 
 import gizmo_analysis as gizmo  # type: ignore
 import matplotlib.pyplot as plt
