@@ -1,7 +1,9 @@
 contourpy==1.2.1
 cycler==0.12.1
 fonttools==4.53.0
+gizmo_analysis==1.0.0
 h5py==3.11.0
+halo_analysis==1.0.0
 kiwisolver==1.4.5
 matplotlib==3.9.0
 numpy==1.26.4
@@ -11,3 +13,4 @@ pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 scipy==1.14.0
 six==1.16.0
+utilities_awetzel==1.0.0
