@@ -1,3 +1,5 @@
+astropy==6.1.1
+astropy-iers-data==0.2024.7.8.0.31.19
 contourpy==1.2.1
 cycler==0.12.1
 fonttools==4.53.0
@@ -8,9 +10,15 @@ kiwisolver==1.4.5
 matplotlib==3.9.0
 numpy==1.26.4
 packaging==24.1
+pandas==2.2.2
 pillow==10.4.0
+pyerfa==2.0.1.4
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
+pytz==2024.1
+PyYAML==6.0.1
 scipy==1.14.0
 six==1.16.0
+tzdata==2024.1
+urllib3==2.2.2
 utilities_awetzel==1.0.0
