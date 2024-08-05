@@ -61,4 +61,6 @@ axs[1].set_xlabel("Lookback Time (Gyr)")
 
 axs[1].legend()
 
+print(snap["snaps"])
+
 plt.show()
